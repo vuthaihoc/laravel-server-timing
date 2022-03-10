@@ -1,5 +1,5 @@
 {
-    "name": "beyondcode/laravel-server-timing",
+    "name": "hocvt/laravel-server-timing",
     "description": "Add Server-Timing header information from within your Laravel apps.",
     "keywords": [
         "beyondcode",
